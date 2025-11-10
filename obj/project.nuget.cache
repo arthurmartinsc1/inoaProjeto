@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "9JKFDRsEXKc=",
+  "success": true,
+  "projectFilePath": "/Users/tutumartinss/Projects/inoaProjectx/inoaProjectx.csproj",
+  "expectedPackageFiles": [
+    "/Users/tutumartinss/.nuget/packages/microsoft.extensions.configuration/9.0.10/microsoft.extensions.configuration.9.0.10.nupkg.sha512",
+    "/Users/tutumartinss/.nuget/packages/microsoft.extensions.configuration.abstractions/9.0.10/microsoft.extensions.configuration.abstractions.9.0.10.nupkg.sha512",
+    "/Users/tutumartinss/.nuget/packages/microsoft.extensions.configuration.binder/9.0.10/microsoft.extensions.configuration.binder.9.0.10.nupkg.sha512",
+    "/Users/tutumartinss/.nuget/packages/microsoft.extensions.configuration.fileextensions/9.0.10/microsoft.extensions.configuration.fileextensions.9.0.10.nupkg.sha512",
+    "/Users/tutumartinss/.nuget/packages/microsoft.extensions.configuration.json/9.0.10/microsoft.extensions.configuration.json.9.0.10.nupkg.sha512",
+    "/Users/tutumartinss/.nuget/packages/microsoft.extensions.fileproviders.abstractions/9.0.10/microsoft.extensions.fileproviders.abstractions.9.0.10.nupkg.sha512",
+    "/Users/tutumartinss/.nuget/packages/microsoft.extensions.fileproviders.physical/9.0.10/microsoft.extensions.fileproviders.physical.9.0.10.nupkg.sha512",
+    "/Users/tutumartinss/.nuget/packages/microsoft.extensions.filesystemglobbing/9.0.10/microsoft.extensions.filesystemglobbing.9.0.10.nupkg.sha512",
+    "/Users/tutumartinss/.nuget/packages/microsoft.extensions.primitives/9.0.10/microsoft.extensions.primitives.9.0.10.nupkg.sha512",
+    "/Users/tutumartinss/.nuget/packages/system.net.http.json/9.0.10/system.net.http.json.9.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
