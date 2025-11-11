@@ -24,3 +24,4 @@
 /Users/tutumartinss/Projects/inoaProjectx/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
 /Users/tutumartinss/Projects/inoaProjectx/obj/Debug/net9.0/inoaProjectx.csproj.AssemblyReference.cache
 /Users/tutumartinss/Projects/inoaProjectx/obj/Debug/net9.0/inoaProj.20919D63.Up2Date
+/Users/tutumartinss/Projects/inoaProjectx/obj/Debug/net9.0/inoaProjectx.sourcelink.json
