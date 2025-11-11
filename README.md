@@ -6,4 +6,5 @@ Ola, para iniciar o projeto teremos que seguir esses passos simples:
 
  adicionei o diagrama do excalidraw para melhor entendimento do projeto
 
-<img width="963" height="830" alt="inoaExc" src="https://github.com/user-attachments/assets/46636089-8def-4170-b493-c2f05cc7bcf3" />
+
+<img width="961" height="830" alt="inoaExc-2" src="https://github.com/user-attachments/assets/6ccab5fc-201d-45b7-a557-a60a0681f272" />
